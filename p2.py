@@ -40,4 +40,3 @@ print(s1.get_marks())
 # 2) Instance Attribute --> self is the instance attribute
 
 # Class is a collection of data(attributes) and methods(functions)
-
